@@ -1,0 +1,15 @@
+C:\Users\Kacper\OneDrive\Semestr VI\Bezpieczeństwo Sieci Komputerowych\PS 2\Vigenere\Vigenere\bin\Debug\Vigenere.exe.config
+C:\Users\Kacper\OneDrive\Semestr VI\Bezpieczeństwo Sieci Komputerowych\PS 2\Vigenere\Vigenere\bin\Debug\Vigenere.exe
+C:\Users\Kacper\OneDrive\Semestr VI\Bezpieczeństwo Sieci Komputerowych\PS 2\Vigenere\Vigenere\bin\Debug\Vigenere.pdb
+C:\Users\Kacper\OneDrive\Semestr VI\Bezpieczeństwo Sieci Komputerowych\PS 2\Vigenere\Vigenere\obj\Debug\Vigenere.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\OneDrive\Semestr VI\Bezpieczeństwo Sieci Komputerowych\PS 2\Vigenere\Vigenere\obj\Debug\MainWindow.g.cs
+C:\Users\Kacper\OneDrive\Semestr VI\Bezpieczeństwo Sieci Komputerowych\PS 2\Vigenere\Vigenere\obj\Debug\App.g.cs
+C:\Users\Kacper\OneDrive\Semestr VI\Bezpieczeństwo Sieci Komputerowych\PS 2\Vigenere\Vigenere\obj\Debug\Vigenere_MarkupCompile.cache
+C:\Users\Kacper\OneDrive\Semestr VI\Bezpieczeństwo Sieci Komputerowych\PS 2\Vigenere\Vigenere\obj\Debug\Vigenere_MarkupCompile.lref
+C:\Users\Kacper\OneDrive\Semestr VI\Bezpieczeństwo Sieci Komputerowych\PS 2\Vigenere\Vigenere\obj\Debug\MainWindow.baml
+C:\Users\Kacper\OneDrive\Semestr VI\Bezpieczeństwo Sieci Komputerowych\PS 2\Vigenere\Vigenere\obj\Debug\Vigenere.g.resources
+C:\Users\Kacper\OneDrive\Semestr VI\Bezpieczeństwo Sieci Komputerowych\PS 2\Vigenere\Vigenere\obj\Debug\Vigenere.Properties.Resources.resources
+C:\Users\Kacper\OneDrive\Semestr VI\Bezpieczeństwo Sieci Komputerowych\PS 2\Vigenere\Vigenere\obj\Debug\Vigenere.csproj.GenerateResource.Cache
+C:\Users\Kacper\OneDrive\Semestr VI\Bezpieczeństwo Sieci Komputerowych\PS 2\Vigenere\Vigenere\obj\Debug\Vigenere.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\OneDrive\Semestr VI\Bezpieczeństwo Sieci Komputerowych\PS 2\Vigenere\Vigenere\obj\Debug\Vigenere.exe
+C:\Users\Kacper\OneDrive\Semestr VI\Bezpieczeństwo Sieci Komputerowych\PS 2\Vigenere\Vigenere\obj\Debug\Vigenere.pdb
